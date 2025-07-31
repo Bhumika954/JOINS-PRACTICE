@@ -68,3 +68,13 @@ A clearer understanding of how JOINs work (especially LEFT and FULL JOIN)
 Learned how to set up test data that actually makes sense
 Practiced exporting results and organizing code cleanly
 Felt more confident reading and writing JOIN queries on my own
+
+#output
+
+![Image](https://github.com/user-attachments/assets/aabd8430-abee-4a40-ad3e-c44dfc4dbef6)
+
+![Image](https://github.com/user-attachments/assets/a6d5fcf3-7b72-43ea-8831-3899872022c4)
+
+![Image](https://github.com/user-attachments/assets/9d12b18c-3ded-414d-ba0e-3b75690adbf5)
+
+![Image](https://github.com/user-attachments/assets/b14c2310-69bd-41eb-a19c-247a860cc3b3)
